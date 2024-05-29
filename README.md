@@ -12,5 +12,6 @@ This is a simple console-based "Guess the Number" game implemented in C++. The p
 ## How to Play
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/lucasbattistipiva/GuessNumberCPP.git
